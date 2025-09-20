@@ -5,6 +5,8 @@
 > ⚠️ **Note:** This is a **hackathon prototype**. The detection logic is **hardcoded/demo only**, currently checking for the keyword `"nuclear war"` in text. Image and URL detection are also demo-only.
 
 ---
+## Website Link
+[fact-checker](https://fact-checker-gamma.vercel.app/)
 
 ## Features
 
